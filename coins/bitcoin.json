@@ -1,0 +1,16 @@
+{
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "algorithm": "sha256",
+    
+    "wallet": "https://bitcoincore.org/bin/",
+
+    "explorer":"https://bitc.easyxpool.tk/",
+    
+    "explorerGetBlock": "https://blockchair.com/bitcoin/block/",
+    "explorerGetTX": "https://blockchair.com/bitcoin/transaction/",
+    
+    "blockTime": 600,
+    "blockChange": 2016
+    
+}
